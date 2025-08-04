@@ -5,8 +5,8 @@ package _002_HelloWorld;
 
 public class FirstProgram {
     public static void main(String[] args) {
-    	System.out.print("There are 3 erros \n")
-    	System.OUT.println("once you find and fix them");
-    	System.out.println(Then write me a story about your favorite hobby)
+    	System.out.print("There are 3 erros \n");
+    	System.out.println("once you find and fix them");
+    	System.out.println("Then write me a story about your favorite hobby");
     }
 }
